@@ -1,0 +1,25 @@
+{
+  "name": "0x-connect-v0",
+  "version": "0.6.17",
+  "description": "Package exporting v0.x of @0xproject/connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioJuliano/0x-connect-v0.git"
+  },
+  "keywords": [
+    "@0xproject/connect"
+  ],
+  "author": "Antonio Juliano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioJuliano/0x-connect-v0/issues"
+  },
+  "homepage": "https://github.com/AntonioJuliano/0x-connect-v0#readme",
+  "dependencies": {
+    "@0xproject/connect": "0.6.17"
+  }
+}
